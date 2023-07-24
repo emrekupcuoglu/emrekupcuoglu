@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href= https://www.linkedin.com/in/bekupcuoglu/> <img src= https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/></a>
+<a href= https://github.com/emrekupcuoglu/> <img src= https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)/></a>
+
+- I'm a JavaScript developer for a Netsuite CRM consultancy firm. 
+- I'm currently learning React to create beautiful web apps.
