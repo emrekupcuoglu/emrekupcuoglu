@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href= https://www.linkedin.com/in/bekupcuoglu/> <img src= https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/></a>
-<a href= https://github.com/emrekupcuoglu/> <img src= https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)/></a>
+<p><a href="https://github.com/emrekupcuoglu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/bekupcuoglu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+
 
 - I'm a JavaScript developer for a Netsuite CRM consultancy firm. 
 - I'm currently learning React to create beautiful web apps.
