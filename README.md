@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p><a href="https://github.com/emrekupcuoglu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/bekupcuoglu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-Hi, I'm Emre and I am a sofwware engineer based in Turkey
+Hi, I'm Emre and I am a software engineer based in Turkey
 
 - I'm a JavaScript developer for a Netsuite CRM consultancy firm. 
-- I'm currently learning React to create beautiful web apps.
+- I'm using and loving React to create beautiful web apps.
