@@ -69,8 +69,6 @@ Now, I'm actively seeking **Full-Stack or Frontend Developer roles** where I can
 
 Thanks for stopping by! ✨
 
-Optional: Add GitHub Stats - Uncomment and customize username if you like
-
 ---
 ### 📊 My GitHub Stats
 
