@@ -1,24 +1,78 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# Hi there, I'm Burak Emre Küpçüoğlu! 👋
 
-<!--
-**emrekupcuoglu/emrekupcuoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full-Stack Developer** based in Ankara, Turkey 🇹🇷, enthusiastic about building modern, performant web applications from UI design right through to backend integration.
 
-Here are some ideas to get you started:
+I'm currently transitioning from a background in NetSuite development, bringing experience in process automation and system integration, and diving deeper into the JavaScript/TypeScript ecosystem. I love the challenge of creating seamless user experiences and scalable solutions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<p><a href="https://github.com/emrekupcuoglu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/bekupcuoglu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+### 🚀 What I'm Focusing On
 
-Hi, I'm Emre and I am a software engineer based in Turkey
+*   Building full-stack applications with **React.js, Next.js, Node.js, and TypeScript**.
+*   Working with databases like **PostgreSQL** (often via Supabase).
+*   Crafting responsive and user-friendly interfaces with **Tailwind CSS** and component libraries like **ShadCN**.
+*   Applying principles like **SOLID** and writing **Clean Code**.
+*   Learning **Swift** for native iOS development exploration! 🍎
 
-- I'm a JavaScript developer for a Netsuite CRM consultancy firm. 
-- I'm using and loving React to create beautiful web apps.
+---
+
+### 🛠️ My Tech Stack & Tools
+
+*   **Frontend:** JavaScript, TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS, Styled Components, React Query, React Router, Redux, React Hook Form, Zod
+*   **Backend:** Node.js, Supabase
+*   **Databases:** PostgreSQL, MongoDB (with Mongoose)
+*   **Testing:** Vitest, Unit Testing fundamentals
+*   **Tools & Concepts:** Git, Vercel/Netlify Deployment, RESTful APIs, Responsive Design, NetSuite ERP (Previous Exp.)
+*   **Currently Learning:** Swift
+
+---
+
+### ✨ Featured Projects
+
+Here are a few projects I've built to practice and showcase my skills:
+
+1.  **🌲 The Cozy Nest**
+    *   A modern E-commerce and promotional platform concept for a furniture retailer.
+    *   *Features:* Fully responsive UI, product filtering, wishlist, local storage cart, form validation.
+    *   *Tech:* `Next.js`, `ShadCN`, `Tailwind CSS`, `React Hook Form`, `Zod`.
+    *   *https://github.com/emrekupcuoglu/the-cozy-nest*
+
+2.  **🏡 The Cozy Cove**
+    *   A cabin rental application with streamlined booking processes.
+    *   *Features:* Intuitive interface, Google authentication, day-by-day availability, reservation management, add-ons.
+    *   *Tech:* `Next.js`, `Supabase (PostgreSQL)`, `Tailwind CSS`, `NextAuth`.
+    *   *https://github.com/emrekupcuoglu/the-cozy-cove*
+
+3.  **📊 The Wild Oasis (Admin Dashboard)**
+    *   An admin dashboard for managing bookings and cabin listings (companion to a booking app).
+    *   *Features:* Responsive admin panel, booking management, cabin updates, data visualization.
+    *   *Tech:* `React.js`, `Supabase (PostgreSQL)`, `Styled Components`, `Recharts`, `React Query`.
+    *   *https://github.com/emrekupcuoglu/wild-oasis*
+
+_(Feel free to check out my repositories for more!)_
+
+---
+
+### 🌱 My Journey & Goals
+
+My professional journey started with **NetSuite Development**, where I focused on designing workflows, automating processes, and integrating systems at companies like **Vavavcars** and **Novacon**. This taught me a lot about solving business problems with technology and optimizing performance.
+
+Now, I'm actively seeking **Full-Stack or Frontend Developer roles** where I can leverage and expand my skills in the **React/Next.js/Node.js** ecosystem. I'm excited by fast-paced environments and opportunities to contribute to impactful products while continuously learning and collaborating with a great team.
+
+---
+
+### 📫 Get In Touch
+
+*   **Email:** [emrekupucoglu@gmail.com](mailto:emrekupucoglu@gmail.com)
+*   **LinkedIn:** https://www.linkedin.com/in/bekupcuoglu/
+*   **GitHub:** You're already here! :)
+
+Thanks for stopping by! ✨
+
+Optional: Add GitHub Stats - Uncomment and customize username if you like
+
+---
+### 📊 My GitHub Stats
+
+[![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrekupcuoglu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekupcuoglu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
